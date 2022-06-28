@@ -18,3 +18,13 @@
     -   Separar dados para treino e teste;
     -   Definir a ordem para os números aleatórios;
     -   Utilizar a função value_counts.
+
+- Aula 3 Um projeto de baixa dimensionalidade e o baseline:
+    -   Trocar valores;
+    -   Usar a biblioteca seaborn;
+    -   Gerar um gráfico com dados do CSV;
+    -   Definir cores no gráfico;
+    -   Gerar gráficos distintos;
+    -   Criação de um algoritmo base;
+    -   Capturar os valores mínimos e máximos.
+    -   Utilizar a função arange do numpy
