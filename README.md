@@ -28,3 +28,8 @@
     -   Criação de um algoritmo base;
     -   Capturar os valores mínimos e máximos.
     -   Utilizar a função arange do numpy
+
+- Aula 4 Support Vector Machine e não linearidade:
+   -    Utilizar o módulo Support Vector Machine;
+   -    Gerar valores randômicos com o módulo SVC;
+   -    Utilizar o módulo Standard Scale.
