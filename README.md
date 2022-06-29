@@ -33,3 +33,12 @@
    -    Utilizar o módulo Support Vector Machine;
    -    Gerar valores randômicos com o módulo SVC;
    -    Utilizar o módulo Standard Scale.
+
+- Aula 5 Dummy classifiers e árvore de decisão:
+   - Alterar dados em colunas;
+   - Utilizar o módulo datetime;
+   -  Criar colunas;
+   - Remover colunas e linhas;
+   - Utilizar o módulo dummie para gerar colunas;
+   - Utilizar o módulo graphviz para gerar gráficos;
+   - Definir propriedades gráficas na árvore de decisão
