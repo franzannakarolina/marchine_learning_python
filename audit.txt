@@ -1,0 +1,7 @@
+Modelos de Marchine Learning
+- KNN
+- Bernoulli Naive Bayes
+- Árvores de decisão
+
+- Implementar e entender cada um dos modelos
+- Escolher o melhor modelo para solucionar um problema
