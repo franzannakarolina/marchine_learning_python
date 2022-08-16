@@ -1,7 +1,15 @@
-Modelos de Marchine Learning
+# Modelos de Marchine Learning
 - KNN
 - Bernoulli Naive Bayes
 - Árvores de decisão
 
 - Implementar e entender cada um dos modelos
 - Escolher o melhor modelo para solucionar um problema
+
+# Churn
+- Taxa de evasão de clientes
+
+# Maquina aprender por números
+- Classificar = transformar as informações dos valores categóricos em algo que a máquina possa aprender.
+
+

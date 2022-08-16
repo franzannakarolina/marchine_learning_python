@@ -42,3 +42,10 @@
    - Utilizar o módulo dummie para gerar colunas;
    - Utilizar o módulo graphviz para gerar gráficos;
    - Definir propriedades gráficas na árvore de decisão
+   
+- Aula 6 - Classificação:
+   - Identificar os tipos de variáveis numéricas e categóricas;
+   - Compreender o conceito de classificação e quando devemos utilizá-la;
+   - Explicar a matemática por trás da classificação;
+   - Diferenciar a classificação da regressão;
+   - Demonstrar o balanceamento dos dados.
